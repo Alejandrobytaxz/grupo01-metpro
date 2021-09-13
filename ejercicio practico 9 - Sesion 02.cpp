@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
 	// int significa trabajar numeros enteros
+	// aea manito xd
 	int edad;
 	cout<<"Digite su edad [0-99]: "; cin>>edad;
 	while(edad<0 || edad>99){
